@@ -4,19 +4,23 @@
     "packages": [
       {
         "name": "prop-types",
-        "version": "15.5.8"
+        "version": "^15.6.1"
       },
       {
         "name": "react",
-        "version": "15.5.4"
+        "version": "^16.4.1"
       },
       {
-        "name": "material-ui-icons",
-        "version": "1.0.0-alpha.3"
+        "name": "@material-ui/icons",
+        "version": "^1.1.0"
       },
       {
-        "name": "material-ui",
-        "version": "1.0.0-alpha.15"
+        "name": "@material-ui/core",
+        "version": "^1.4.0"
+      },
+      {
+        "name": "jss",
+        "version": "^9.8.7"
       }
     ]
   }

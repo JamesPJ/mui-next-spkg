@@ -6,7 +6,7 @@
 
 import React, { Component } from "react";
 import PropTypes from "prop-types";
-import Grid from 'material-ui/Grid';
+import Grid from '@material-ui/core/Grid';
 
 class LayoutContainer extends Component {
   constructor(props) {
